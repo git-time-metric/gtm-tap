@@ -1,9 +1,9 @@
 class Gtm < Formula
   desc "Simple, seamless, lightweight time tracking for all your git projects"
   homepage "https://github.com/git-time-metric/gtm"
-  url "https://github.com/git-time-metric/gtm/releases/download/v1.0-beta.3/gtm.v1.0-beta.3.osx.tar.gz"
-  version "v1.0-beta.3"
-  sha256 "3cd3ee507b1df36d5b959b58ca906c8a4ceff901583b998cc2e597d9a4c99b82"
+  url "https://github.com/git-time-metric/gtm/releases/download/v1.0-beta.4/gtm.v1.0-beta.4.osx.tar.gz"
+  version "v1.0-beta.4"
+  sha256 "976a04ff81b9f701d59761d2956a562528c5d809060ad5e3eab6b6e80520f350"
 
   def install
     bin.install "gtm"
