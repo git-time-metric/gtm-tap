@@ -1,4 +1,4 @@
-class GtmLinux < Formula
+class Gtmlinux < Formula
   desc "Simple, seamless, lightweight time tracking for all your git projects"
   homepage "https://github.com/git-time-metric/gtm"
   url "https://github.com/git-time-metric/gtm/releases/download/v1.3.3/gtm.v1.3.3.linux.tar.gz"
