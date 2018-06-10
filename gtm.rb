@@ -1,3 +1,5 @@
+require formula
+
 class Gtm < Formula
   desc "Simple, seamless, lightweight time tracking for all your git projects"
   homepage "https://github.com/git-time-metric/gtm"
