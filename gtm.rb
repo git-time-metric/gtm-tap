@@ -12,7 +12,7 @@ class Gtm < Formula
       # url "https://github.com/git-time-metric/gtm/releases/download/#{Gtm.version}/gtm.#{Gtm.version}.linux.tar.gz"
       sha256 '0022ccde788ac85f4648338ddfd4bd20cdd8dd9adc0232cc52d453d2f27cdd6f'
   end
-  url "https://github.com/git-time-metric/gtm/releases/download/#{Gtm.version}/gtm.#{Gtm.version}.#{os}.tar.gz"
+  url "https://github.com/git-time-metric/gtm/releases/download/#{Gtm.version}/gtm.#{Gtm.version}.#{Gtm.os}.tar.gz"
 
   def install
     bin.install 'gtm'
