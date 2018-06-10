@@ -1,7 +1,7 @@
 class Gtm < Formula
   desc 'Simple, seamless, lightweight time tracking for all your git projects'
   homepage 'https://github.com/git-time-metric/gtm'
-  version "#{Gtm.version}"
+  version 'v1.3.3'
 
   if OS.mac? then
       url "https://github.com/git-time-metric/gtm/releases/download/#{Gtm.version}/gtm.#{Gtm.version}.osx.tar.gz"
