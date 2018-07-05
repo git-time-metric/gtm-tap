@@ -2,9 +2,9 @@ class Gtm < Formula
   desc 'Simple, seamless, lightweight time tracking for all your git projects'
   homepage 'https://github.com/git-time-metric/gtm'
 
-  version 'v1.3.4'
-  sha256Mac = 'd6337d36d846993c061bc2a5f82b6cb4b35ddce129430a7119140016bdb69dd8'
-  sha256Linux = '0e4e6952f4482ec9e0c55331396b550463da0ec46134c95f3d905a52da7382f1'
+  version 'v1.3.5'
+  sha256Mac = 'c8ffa3151378c10c8af8f5172fa4df1eac21f60db83511805414c29ea4f739ad'
+  sha256Linux = '7b43e4d3a3020929e1e1ba8af78c61e02dfb7a8a0af558fbd27746a9ecb50743'
 
   os = ''
   if OS.mac? then
